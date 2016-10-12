@@ -1,0 +1,76 @@
+﻿@model IEnumerable<FirstWebApplication.Entities.Game>
+
+@{
+    ViewBag.Title = "Games";
+}
+
+<h2>Games</h2>
+
+<p>
+    
+</p>
+
+<body>
+    <div ng-app="app" ng-controller="GameCtrl">
+       
+
+        <table class="table-hover">
+            @*<tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Name)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.RealeseDate)
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var game in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => game.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => game.RealeseDate)
+                        </td>
+                    </tr>
+                }*@
+            <thead>
+            <th>Name</th>
+            <th>RealeseDate</th>
+            <th>Categories</th>
+            <th>Played</th></thead>
+            <tbody class="table-striped">
+                
+            <tr ng-repeat="game in model">
+                <td>{{game.Name}}</td>
+                <td>{{game.RealeseDate | jsonDate}}</td>
+                <td>{{game.Categories}}</td>
+                <td>{{game.Played}}</td>
+            </tr>
+            <tr ng-if="states.showGameForm">
+                <td><input type="text" class="form-control" placeholder="Name"ng-model="new.Game.Name"/></td>
+                <td><input type="date" class="form-control" placeholder="Date" ng-model="new.Game.RealeseDate" /></td>
+                <td></td>
+                <td><input type="checkbox" class="checkbox" ng-model="new.Game.Played" /></td>
+                <td><button type="button" class="btn btn-primary" ng-click="addGame()">Add</button></td>
+                <td><button type="button" class="btn btn-default" ng-click="showGameForm(false)">Cancel</button></td>
+            </tr>
+            </tbody>
+        </table>
+
+        <a ng-click="showGameForm(true)" class="btn btn-primary">Create Game</a>
+        <p>{{new.Game | json}}</p>
+    </div>
+@*<table>
+    <tr ng-repeat="x in names"></tr>
+    <td>{{x.Name}}</td>
+</table>
+<script>
+    var app = angular.module('myApp', []);
+    app.controller('gamesctrl'),function($scope, $http) {
+        $http.get().then(function(response) { $scope.names = response.data });
+    }
+</script>*@
+</body>

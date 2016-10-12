@@ -1,0 +1,16 @@
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\AjaxWebApplication\obj\Debug\AjaxWebApplication.csprojResolveAssemblyReference.cache
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\AjaxWebApplication\bin\AjaxWebApplication.dll.config
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\AjaxWebApplication\bin\AjaxWebApplication.dll
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\AjaxWebApplication\bin\AjaxWebApplication.pdb
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\AjaxWebApplication\bin\Data.dll
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\AjaxWebApplication\bin\MongoDB.Bson.dll
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\AjaxWebApplication\bin\MongoDB.Driver.Core.dll
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\AjaxWebApplication\bin\MongoDB.Driver.dll
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\AjaxWebApplication\bin\Newtonsoft.Json.dll
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\AjaxWebApplication\bin\Data.pdb
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\AjaxWebApplication\bin\MongoDB.Bson.xml
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\AjaxWebApplication\bin\MongoDB.Driver.xml
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\AjaxWebApplication\bin\MongoDB.Driver.Core.xml
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\AjaxWebApplication\bin\Newtonsoft.Json.xml
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\AjaxWebApplication\obj\Debug\AjaxWebApplication.dll
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\AjaxWebApplication\obj\Debug\AjaxWebApplication.pdb

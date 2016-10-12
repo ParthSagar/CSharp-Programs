@@ -1,0 +1,6 @@
+E:\.NET Projects\FileReadWrite\FileReadWrite\bin\Debug\FileReadWrite.exe.config
+E:\.NET Projects\FileReadWrite\FileReadWrite\bin\Debug\FileReadWrite.exe
+E:\.NET Projects\FileReadWrite\FileReadWrite\bin\Debug\FileReadWrite.pdb
+E:\.NET Projects\FileReadWrite\FileReadWrite\obj\Debug\FileReadWrite.csprojResolveAssemblyReference.cache
+E:\.NET Projects\FileReadWrite\FileReadWrite\obj\Debug\FileReadWrite.exe
+E:\.NET Projects\FileReadWrite\FileReadWrite\obj\Debug\FileReadWrite.pdb

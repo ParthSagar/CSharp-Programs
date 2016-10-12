@@ -1,0 +1,9 @@
+E:\.NET Projects\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe.config
+E:\.NET Projects\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe
+E:\.NET Projects\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.pdb
+E:\.NET Projects\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csprojResolveAssemblyReference.cache
+E:\.NET Projects\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.exe
+E:\.NET Projects\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.pdb
+E:\.NET Projects\CSharpSamples\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe.config
+E:\.NET Projects\CSharpSamples\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.exe
+E:\.NET Projects\CSharpSamples\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.pdb

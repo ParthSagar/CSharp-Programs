@@ -1,0 +1,13 @@
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\UnitTestData2\bin\Debug\UnitTestData2.dll
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\UnitTestData2\bin\Debug\UnitTestData2.pdb
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\UnitTestData2\obj\Debug\UnitTestData2.csprojResolveAssemblyReference.cache
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\UnitTestData2\obj\Debug\UnitTestData2.dll
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\UnitTestData2\obj\Debug\UnitTestData2.pdb
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\UnitTestData2\bin\Debug\Data.dll
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\UnitTestData2\bin\Debug\MongoDB.Driver.dll
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\UnitTestData2\bin\Debug\MongoDB.Driver.Core.dll
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\UnitTestData2\bin\Debug\MongoDB.Bson.dll
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\UnitTestData2\bin\Debug\Data.pdb
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\UnitTestData2\bin\Debug\MongoDB.Driver.xml
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\UnitTestData2\bin\Debug\MongoDB.Driver.Core.xml
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\UnitTestData2\bin\Debug\MongoDB.Bson.xml

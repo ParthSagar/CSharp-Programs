@@ -1,0 +1,11 @@
+E:\.NET Projects\CSharpSamples\NoSQL\MongoDb\MongoDb\bin\Debug\MongoDb.exe.config
+E:\.NET Projects\CSharpSamples\NoSQL\MongoDb\MongoDb\bin\Debug\MongoDb.exe
+E:\.NET Projects\CSharpSamples\NoSQL\MongoDb\MongoDb\bin\Debug\MongoDb.pdb
+E:\.NET Projects\CSharpSamples\NoSQL\MongoDb\MongoDb\bin\Debug\MongoDB.Bson.dll
+E:\.NET Projects\CSharpSamples\NoSQL\MongoDb\MongoDb\bin\Debug\MongoDB.Driver.Core.dll
+E:\.NET Projects\CSharpSamples\NoSQL\MongoDb\MongoDb\bin\Debug\MongoDB.Driver.dll
+E:\.NET Projects\CSharpSamples\NoSQL\MongoDb\MongoDb\bin\Debug\MongoDB.Bson.xml
+E:\.NET Projects\CSharpSamples\NoSQL\MongoDb\MongoDb\bin\Debug\MongoDB.Driver.xml
+E:\.NET Projects\CSharpSamples\NoSQL\MongoDb\MongoDb\obj\Debug\MongoDb.csprojResolveAssemblyReference.cache
+E:\.NET Projects\CSharpSamples\NoSQL\MongoDb\MongoDb\obj\Debug\MongoDb.exe
+E:\.NET Projects\CSharpSamples\NoSQL\MongoDb\MongoDb\obj\Debug\MongoDb.pdb

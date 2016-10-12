@@ -1,0 +1,11 @@
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\Data\bin\Debug\Data.dll
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\Data\bin\Debug\Data.pdb
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\Data\bin\Debug\MongoDB.Bson.dll
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\Data\bin\Debug\MongoDB.Driver.Core.dll
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\Data\bin\Debug\MongoDB.Driver.dll
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\Data\bin\Debug\MongoDB.Bson.xml
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\Data\bin\Debug\MongoDB.Driver.xml
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\Data\bin\Debug\MongoDB.Driver.Core.xml
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\Data\obj\Debug\Data.dll
+E:\.NET Projects\CSharpSamples\AjaxWebApplication\Data\obj\Debug\Data.pdb

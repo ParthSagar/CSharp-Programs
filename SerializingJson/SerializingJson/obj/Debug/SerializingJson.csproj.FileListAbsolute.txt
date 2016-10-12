@@ -1,0 +1,8 @@
+E:\.NET Projects\CSharpSamples\SerializingJson\SerializingJson\bin\Debug\SerializingJson.exe.config
+E:\.NET Projects\CSharpSamples\SerializingJson\SerializingJson\bin\Debug\SerializingJson.exe
+E:\.NET Projects\CSharpSamples\SerializingJson\SerializingJson\bin\Debug\SerializingJson.pdb
+E:\.NET Projects\CSharpSamples\SerializingJson\SerializingJson\obj\Debug\SerializingJson.csprojResolveAssemblyReference.cache
+E:\.NET Projects\CSharpSamples\SerializingJson\SerializingJson\obj\Debug\SerializingJson.exe
+E:\.NET Projects\CSharpSamples\SerializingJson\SerializingJson\obj\Debug\SerializingJson.pdb
+E:\.NET Projects\CSharpSamples\SerializingJson\SerializingJson\bin\Debug\Newtonsoft.Json.dll
+E:\.NET Projects\CSharpSamples\SerializingJson\SerializingJson\bin\Debug\Newtonsoft.Json.xml

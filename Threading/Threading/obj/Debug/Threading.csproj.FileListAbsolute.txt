@@ -1,0 +1,9 @@
+E:\.NET Projects\Threading\Threading\bin\Debug\Threading.exe.config
+E:\.NET Projects\Threading\Threading\bin\Debug\Threading.exe
+E:\.NET Projects\Threading\Threading\bin\Debug\Threading.pdb
+E:\.NET Projects\Threading\Threading\obj\Debug\Threading.csprojResolveAssemblyReference.cache
+E:\.NET Projects\Threading\Threading\obj\Debug\Threading.Form1.resources
+E:\.NET Projects\Threading\Threading\obj\Debug\Threading.Properties.Resources.resources
+E:\.NET Projects\Threading\Threading\obj\Debug\Threading.csproj.GenerateResource.Cache
+E:\.NET Projects\Threading\Threading\obj\Debug\Threading.exe
+E:\.NET Projects\Threading\Threading\obj\Debug\Threading.pdb

@@ -1,0 +1,30 @@
+﻿<html>
+<head></head>
+<body>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>
+
+        $(document).ready(function () {
+
+            $.ajax({
+                type: "POST",
+                url: "GetHello.cs/Hello",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (response) {
+                    $("#Content").text(response.d);
+                },
+                failure: function (response) {
+                    alert(response.d);
+                }
+            });
+        });
+    </script>
+
+<div id="#Content">
+    <p class="hello"></p>
+</div>
+
+</body>
+
+</html>
